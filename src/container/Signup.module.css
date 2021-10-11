@@ -1,0 +1,100 @@
+.signupBody{
+    
+    width: 100%;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+ }
+.close{
+    margin: 1rem;
+    margin-left: 28rem;
+    border: none;
+    background-color: #fff;
+    
+
+}
+ .signupHeader{
+    font-size: 40px;
+    margin-top: -3rem;
+    font-family: Montserrat;
+    text-align: center;
+    font-weight: 500;
+}
+
+.signupBox{
+    width: 100%;
+    display: flex;
+    border: none;
+    
+}
+
+
+ 
+ 
+.formField{
+     border: 1px solid rgb(49, 49, 49); 
+     border-radius: 25px;
+     width: 25rem;
+     height: 35px;
+     padding: 0.25em 1em;
+     background-color:rgb(240, 240, 240);
+     margin: 5px;
+ }
+ 
+ 
+ .signupButtons{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin: 1.5rem;
+     margin: 1rem;
+     
+ }
+ 
+ .signupBtn{
+     border-radius: 35px; 
+     background-color: rgb(155, 123, 77); 
+     padding: 10px 30px; 
+     font-size: 15px; 
+     color: white;
+     outline: none;
+    border: none;
+    }
+ .signupBtn2{
+     margin-left: 10px; 
+     border-radius: 35px; 
+     background-color: rgb(155, 123, 77); 
+     padding: 10px 30px;
+     font-size: 15px; 
+     color: white;
+     border: none;    
+}
+  
+ .signA{
+     text-decoration: none;
+     cursor: pointer;
+     font-weight: bolder;
+     cursor: pointer;
+     color: black;
+ }
+ 
+ a:hover{
+     color:#9b7b4d;
+ }
+ 
+ p{
+     color: black;
+ }
+ 
+ .here{
+     border: none;
+     margin: 1px;
+     font-weight: 16px;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
